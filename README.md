@@ -15,9 +15,6 @@ I'm passionate about technology, coding, and continuous learning. I'm exploring 
 ## 🛠️ Skills & Technologies
 
 *Technologies will be added as I learn and build projects.*
-
-- 💻 Programming: Add your programming languages here.
-- 🌐 Web Development: Add your web technologies here.
 - 🔧 Tools: Git and GitHub.
 
 ## 📂 My Projects
